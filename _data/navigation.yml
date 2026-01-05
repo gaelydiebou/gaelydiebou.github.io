@@ -10,12 +10,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    weight: 1
 
   - title: "Teaching"
     url: /teaching/    
+    weight: 2
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+    weight: 3
 
     
 # - title: "Portfolio"
