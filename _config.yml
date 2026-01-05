@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.jpeg"
+  avatar           : "profile_picture.png"
   name             : "Gael Yomgne Diebou"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
